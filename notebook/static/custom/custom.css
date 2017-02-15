@@ -1,0 +1,10 @@
+/*
+Custom user CSS
+*/
+
+body {background-color: #f9f9f9;}
+
+div#ipython_notebook img 
+{
+  content: url("img/ITRI_logo.png");
+}
